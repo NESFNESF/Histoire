@@ -1,0 +1,7 @@
+django
+djangorestframework
+djangorestframework_simplejwt
+channels
+pymongo
+drf-yasg
+beautifulsoup4
